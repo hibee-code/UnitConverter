@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 400p;
+    height: 150px;
+    position: absolute;
+    top: 35%;
+    left:35%;
+    /* transform: translate3d(-70%, -70%); */
+
+}
